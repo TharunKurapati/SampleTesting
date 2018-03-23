@@ -1,2 +1,2 @@
 # SampleTesting
-To test
+just to test
